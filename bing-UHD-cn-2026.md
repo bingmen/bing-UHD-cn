@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-10-18 04:26:40 UTC
+> 最后更新：2026-10-19 04:36:19 UTC
 
 | 日期 | 标题 | 版权 | 略缩图 | 高清图 |
 | --- | --- | --- | --- | --- |
+| 2026-10-19 | 水上通衢 | 大运河，威尼斯，意大利 (© Juan Romero/Cavan Images) | ![水上通衢](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261019_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg) |
 | 2026-10-18 | 75载，风华正茂 | 多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images) | ![75载，风华正茂](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261018_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg) |
 | 2026-10-17 | 发掘尘封的过去 | 肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy) | ![发掘尘封的过去](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261017_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg) |
 | 2026-10-16 | 一窥科罗拉多群峰 | 斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images) | ![一窥科罗拉多群峰](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261016_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg) |
