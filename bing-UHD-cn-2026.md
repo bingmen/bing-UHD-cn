@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-10-19 04:36:19 UTC
+> 最后更新：2026-10-20 04:47:13 UTC
 
 | 日期 | 标题 | 版权 | 略缩图 | 高清图 |
 | --- | --- | --- | --- | --- |
+| 2026-10-20 | 慢节奏生活 | 褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures) | ![慢节奏生活](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261020_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg) |
 | 2026-10-19 | 水上通衢 | 大运河，威尼斯，意大利 (© Juan Romero/Cavan Images) | ![水上通衢](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261019_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg) |
 | 2026-10-18 | 75载，风华正茂 | 多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images) | ![75载，风华正茂](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261018_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg) |
 | 2026-10-17 | 发掘尘封的过去 | 肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy) | ![发掘尘封的过去](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261017_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg) |
