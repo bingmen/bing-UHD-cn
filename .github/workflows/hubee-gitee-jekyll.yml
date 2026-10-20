@@ -1,0 +1,92 @@
+# hubee-gitee-jekyll-1.0.1.yml
+# github.com/shenjuexiao
+# 20261020
+
+# .github/workflows/hubee-gitee-jekyll.yml
+# 
+# 合并自：
+#   - sync-to-gitee.yml      （同步到 Gitee）
+#   - jekyll-gh-page.yml     （构建并部署 Jekyll 到 GitHub Pages）
+#
+# 说明：
+#   1. 新建 Gitee 私人令牌
+#      `账号设置` -> `私人令牌` -> [`GITEE_TOKEN`]
+#   2. 新建 GitHub 仓库 Repository Secrets
+#      `Settings` -> `Secrets and variables` -> `Actions` -> `Repository secrets`
+#      需要：GITEE_TOKEN、GITEE_ORG、GITEE_USERNAME、GITEE_REPO、GITEE_PRIVATE
+#   3. 触发方式：push 到 main/master、手动触发；可选定时任务
+#
+name: Hubee Gitee & Jekyll
+
+on:
+  push:
+    branches: [main, master]
+  # schedule:
+    # 每天 UTC 02:00（北京时间 10:00）
+    # - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # ===== 同步到 Gitee =====
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: hubee-action
+        uses: shenjuexiao/hubee-action@v1
+        with:
+          gitee_token:    ${{ secrets.GITEE_TOKEN }}
+          gitee_org:      ${{ secrets.GITEE_ORG }}
+          gitee_username: ${{ secrets.GITEE_USERNAME }}
+          gitee_repo:     ${{ secrets.GITEE_REPO }}
+          gitee_private:  ${{ secrets.GITEE_PRIVATE }}
+
+  # ===== 构建 Jekyll =====
+  build:
+    # 仅当上游 sync 成功时才构建
+    needs: sync
+    if: ${{ success() }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # 显式指定为触发本次工作流的 commit，保证构建内容一致
+          ref: ${{ github.sha }}
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  # ===== 部署到 GitHub Pages =====
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
