@@ -1,3 +1,5 @@
+[English](README.cn.md) | [简体中文](README.md)
+
 # Bing 每日壁纸 - UHD 中文
 
 ## 🚀 项目
