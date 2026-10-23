@@ -1,6 +1,6 @@
-# bing-UHD-cn-README-0.1.0.py
+# bing-UHD-cn-README-0.1.1.py
 # github.com/shenjuexiao
-# 20261023
+# 20261024
 
 # bing-UHD-cn-README.py
 #!/usr/bin/env python3
@@ -26,7 +26,7 @@ YEAR_EMOJI = {
     2022: "🐅",
 }
 COLS = 4
-ROWS = 4
+ROWS = 1
 TOTAL = COLS * ROWS
 OUTPUT = Path("bing-UHD-cn-README.md")
 README = Path("README.md")
