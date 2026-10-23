@@ -1,6 +1,6 @@
-# bing-UHD-cn-0.1.1.yml
+# bing-UHD-cn-0.1.2.yml
 # github.com/shenjuexiao
-# 20261023
+# 20261024
 
 # .github/workflows/bing-UHD-cn.yml
 name: bing-UHD-cn
@@ -8,7 +8,8 @@ on:
   schedule:
     # 每天 00:05 UTC 运行（北京时间 08:05）
     - cron: '5 0 * * *'
-  workflow_dispatch: # 支持手动触发
+  # 支持手动触发
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -42,7 +43,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           YEAR=$(date +%Y)
-          git add bing-UHD-cn-${YEAR}.md bing-JSON-cn-${YEAR}.json bing-UHD-cn-${YEAR}/ bing-320-cn-${YEAR}/ bing-JSON-cn-${YEAR}/ README.md
+          git add bing-UHD-cn-${YEAR}.md bing-JSON-cn-${YEAR}.json bing-UHD-cn-${YEAR}/ bing-320-cn-${YEAR}/ bing-JSON-cn-${YEAR}/ README.md bing-UHD-cn-README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
