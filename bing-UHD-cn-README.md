@@ -1,111 +1,58 @@
 # Bing 每日壁纸 - UHD 中文
 
-## 🚀 项目
+🚀 [bingmen/bing-UHD-cn](https://github.com/bingmen/bing-UHD-cn)
 
-🔗 [bingmen/bing-UHD](https://github.com/bingmen/bing-UHD)
-
-## 😀 简介
+## 简介
 
 👀 自动抓取 Bing 每日壁纸（中国地区），存储 UHD 和 320×240 格式，后者作为略缩图形成归档汇总表格。
 
-## 🗂️ 归档
+## 归档
 
-### 🐎 [2026](bing-UHD-cn-2026.md)
+### 🐎 [2026](https://uhdcn.bingmen.comn/bing-UHD-cn-2026.html)
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260128_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260226_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260305_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260307_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2026-01-28 | 2026-02-26 | 2026-03-05 | 2026-03-07 |
+| 2026-02-17 | 2026-06-06 | 2026-08-18 | 2026-10-21 |
+| :---: | :---: | :---: | :---: |
+| [福气满满，马年大吉](https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg) | [多走走，多思考](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg) | [星形城市的几何之美](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg) | [飞掠河面](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg) |
+| [![福气满满，马年大吉](https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg) | [![多走走，多思考](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_320x240.jpg)](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg) | [![星形城市的几何之美](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_320x240.jpg)](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg) | [![飞掠河面](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_320x240.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg) |
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260315_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260317_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260408_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260418_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2026-03-15 | 2026-03-17 | 2026-04-08 | 2026-04-18 |
+### 🐍 [2025](https://uhdcn.bingmen.comn/bing-UHD-cn-2025.html)
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260517_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260528_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260530_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260619_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2026-05-17 | 2026-05-28 | 2026-05-30 | 2026-06-19 |
+| 2025-04-28 | 2025-08-14 | 2025-11-10 | 2025-12-25 |
+| :---: | :---: | :---: | :---: |
+| [这只黑斑羚正在何处漫游？](https://www.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg) | [从山顶俯瞰](https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg) | [草原之下的生命](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg) | [微缩世界，无尽奇想](https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg) |
+| [![这只黑斑羚正在何处漫游？](https://www.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_320x240.jpg)](https://www.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg) | [![从山顶俯瞰](https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_320x240.jpg)](https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg) | [![草原之下的生命](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_320x240.jpg)](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg) | [![微缩世界，无尽奇想](https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg) |
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260622_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260730_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260804_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20260918_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2026-06-22 | 2026-07-30 | 2026-08-04 | 2026-09-18 |
+### 🐉 [2024](https://uhdcn.bingmen.comn/bing-UHD-cn-2024.html)
 
-### 🐍 [2025](bing-UHD-cn-2025.md)
+| 2024-03-14 | 2024-04-19 | 2024-05-11 | 2024-11-09 |
+| :---: | :---: | :---: | :---: |
+| [一个π](https://www.bing.com/th?id=OHR.AyutthayaTree_ZH-CN8075870220_UHD.jpg) | [历史的轮回](https://www.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg) | [小蓝鸟一路顺风](https://www.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_UHD.jpg) | [红尘中的宇宙美景](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg) |
+| [![一个π](https://www.bing.com/th?id=OHR.AyutthayaTree_ZH-CN8075870220_320x240.jpg)](https://www.bing.com/th?id=OHR.AyutthayaTree_ZH-CN8075870220_UHD.jpg) | [![历史的轮回](https://www.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_320x240.jpg)](https://www.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg) | [![小蓝鸟一路顺风](https://www.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_320x240.jpg)](https://www.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_UHD.jpg) | [![红尘中的宇宙美景](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_320x240.jpg)](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg) |
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250202_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250226_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250422_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250509_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2025-02-02 | 2025-02-26 | 2025-04-22 | 2025-05-09 |
+### 🐇 [2023](https://uhdcn.bingmen.comn/bing-UHD-cn-2023.html)
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250528_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250609_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250610_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250803_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2025-05-28 | 2025-06-09 | 2025-06-10 | 2025-08-03 |
+| 2023-01-16 | 2023-08-21 | 2023-09-13 | 2023-12-22 |
+| :---: | :---: | :---: | :---: |
+| [美丽又危险](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_UHD.jpg) | [自内而外的光彩](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_UHD.jpg) | [往事的低语](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_UHD.jpg) | [冬季仙境中的精灵](https://www.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg) |
+| [![美丽又危险](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_320x240.jpg)](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_UHD.jpg) | [![自内而外的光彩](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_320x240.jpg)](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_UHD.jpg) | [![往事的低语](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_320x240.jpg)](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_UHD.jpg) | [![冬季仙境中的精灵](https://www.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_320x240.jpg)](https://www.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg) |
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250822_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20250911_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20251004_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20251013_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2025-08-22 | 2025-09-11 | 2025-10-04 | 2025-10-13 |
+### 🐅 [2022](https://uhdcn.bingmen.comn/bing-UHD-cn-2022.html)
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20251014_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20251118_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20251119_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20251214_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2025-10-14 | 2025-11-18 | 2025-11-19 | 2025-12-14 |
+| 2022-04-28 | 2022-06-11 | 2022-07-30 | 2022-08-14 |
+| :---: | :---: | :---: | :---: |
+| [庆祝漫游权](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg) | [一个可供探险的水下天堂](https://www.bing.com/th?id=OHR.MisoolIsland_ZH-CN9038691748_UHD.jpg) | [“第八大奇迹”?](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_UHD.jpg) | [捉迷藏世界冠军](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_UHD.jpg) |
+| [![庆祝漫游权](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_320x240.jpg)](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg) | [![一个可供探险的水下天堂](https://www.bing.com/th?id=OHR.MisoolIsland_ZH-CN9038691748_320x240.jpg)](https://www.bing.com/th?id=OHR.MisoolIsland_ZH-CN9038691748_UHD.jpg) | [![“第八大奇迹”?](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_320x240.jpg)](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_UHD.jpg) | [![捉迷藏世界冠军](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_320x240.jpg)](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_UHD.jpg) |
 
-### 🐉 [2024](bing-UHD-cn-2024.md)
+## 🗂️ 目录
 
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240201_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240208_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240511_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240513_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2024-02-01 | 2024-02-08 | 2024-05-11 | 2024-05-13 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240602_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240604_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240629_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240701_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2024-06-02 | 2024-06-04 | 2024-06-29 | 2024-07-01 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240714_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20240808_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20241002_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20241107_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2024-07-14 | 2024-08-08 | 2024-10-02 | 2024-11-07 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20241112_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20241116_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20241206_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20241217_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2024-11-12 | 2024-11-16 | 2024-12-06 | 2024-12-17 |
-
-### 🐇 [2023](bing-UHD-cn-2023.md)
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230316_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230330_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230412_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230521_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2023-03-16 | 2023-03-30 | 2023-04-12 | 2023-05-21 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230522_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230605_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230712_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230720_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2023-05-22 | 2023-06-05 | 2023-07-12 | 2023-07-20 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230727_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230802_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230806_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230821_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2023-07-27 | 2023-08-02 | 2023-08-06 | 2023-08-21 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230829_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20230910_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20231123_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20231130_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2023-08-29 | 2023-09-10 | 2023-11-23 | 2023-11-30 |
-
-### 🐅 [2022](bing-UHD-cn-2022.md)
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220516_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220518_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220629_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220704_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2022-05-16 | 2022-05-18 | 2022-06-29 | 2022-07-04 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220810_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220821_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220830_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220908_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2022-08-10 | 2022-08-21 | 2022-08-30 | 2022-09-08 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220910_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20220915_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20221003_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20221101_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2022-09-10 | 2022-09-15 | 2022-10-03 | 2022-11-01 |
-
-| <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20221117_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20221120_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20221210_320_cn.jpg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20221214_320_cn.jpg" width="200"> |
-| --- | --- | --- | --- |
-| 2022-11-17 | 2022-11-20 | 2022-12-10 | 2022-12-14 |
-
-## 📁️ 目录
-
-- 📄 数据：bing-JSON-cn-{year}/
-- 🖼️ 略缩图：bing-320-cn-{year}/
-- 🎞️ 高清图：bing-UHD-cn-{year}/
+- 📄 数据：bing-JSON-cn-{year}
+- 🖼️ 略缩图：bing-320-cn-{year}
+- 🎞️ 高清图：bing-UHD-cn-{year}
 
 ## 📚 参考
 
 - [Bing-Wallpaper-Action 公开API](https://bing-wallpaper.apifox.cn/)
+
+## 📄 许可证
+
+[MIT](LICENSE)
