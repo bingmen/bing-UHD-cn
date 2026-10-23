@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-10-22 04:38:42 UTC
+> 最后更新：2026-10-23 04:43:42 UTC
 
 | 日期 | 标题 | 版权 | 略缩图 | 高清图 |
 | --- | --- | --- | --- | --- |
+| 2026-10-23 | 荒野伙伴 | 两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images) | ![荒野伙伴](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261023_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg) |
 | 2026-10-22 | 静水映斑斓 | 内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images) | ![静水映斑斓](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261022_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg) |
 | 2026-10-21 | 飞掠河面 | 香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images) | ![飞掠河面](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261021_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg) |
 | 2026-10-20 | 慢节奏生活 | 褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures) | ![慢节奏生活](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261020_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg) |
