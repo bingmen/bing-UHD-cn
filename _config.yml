@@ -1,0 +1,19 @@
+# 20261023
+# _config.yml
+exclude:
+  - .github/workflows/
+  - bing-320-cn-2022/
+  - bing-320-cn-2023/
+  - bing-320-cn-2024/
+  - bing-320-cn-2025/
+  - bing-320-cn-2026/
+  - bing-JSON-cn-2022/
+  - bing-JSON-cn-2023/
+  - bing-JSON-cn-2024/
+  - bing-JSON-cn-2025/
+  - bing-JSON-cn-2026/
+  - bing-UHD-cn-2022/
+  - bing-UHD-cn-2023/
+  - bing-UHD-cn-2024/
+  - bing-UHD-cn-2025/
+  - bing-UHD-cn-2026/
