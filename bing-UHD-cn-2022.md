@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2022
 
-> 最后更新：2026-10-24 02:22:04 UTC
+> 最后更新：2026-10-24 04:00:46 UTC
+
 
 | 日期 | 标题 | 版权 | 缩略图 | 高清图 |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | 20230101 | 在北极附近打盹 | 北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20230101_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
 | 20221231 | 和谁一起跨年？ | 一起迎接2023年 (© GettyImages) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20221231_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
 | 20221230 | 这些雪永远不会融化 | 白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20221230_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
