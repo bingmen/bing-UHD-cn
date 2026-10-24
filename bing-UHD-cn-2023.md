@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2023
 
-> 最后更新：2026-10-06 15:49:21 UTC
+> 最后更新：2026-10-24 03:36:09 UTC
 
-| 日期 | 标题 | 版权 | 略缩图 | 高清图 |
-|------|------|------|--------|--------|
+
+| 日期 | 标题 | 版权 | 缩略图 | 高清图 |
+| :---: | :---: | :---: | :---: | :---: |
 | 20240101 | 新年伊始 | 睡在雪地里的赤狐，阿布鲁佐，意大利 (© marco vancini/500px/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20240101_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
 | 20231231 | 明年见! | 帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20231231_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
 | 20231230 | 古石圈 | 卡塞里格石圈，湖区国家公园 ，坎布里亚，英国 (© John Finney Photography/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2023/20231230_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
