@@ -1,6 +1,6 @@
-# bing-UHD-cn-0.1.1.py
+# bing-UHD-cn-0.1.2.py
 # github.com/shenjuexiao
-# 20261008
+# 20261024
 
 # bing-UHD-cn.py
 #!/usr/bin/env python3
@@ -190,7 +190,7 @@ def write_yearly_md(year: str, yearly_images: list) -> None:
                 f"> 最后更新：{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
             )
             f.write("| 日期 | 标题 | 版权 | 略缩图 | 高清图 |\n")
-            f.write("| --- | --- | --- | --- | --- |\n")
+            f.write("| :---: | :---: | :---: | :---: |\n")            
             for row in rows:
                 f.write(row + "\n")
         print(f"\n{year} 年 Markdown 已写入 {md_file}（共 {len(rows)} 行）")
