@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2025
 
-> 最后更新：2026-10-06 16:38:38 UTC
+> 最后更新：2026-10-24 03:08:49 UTC
 
-| 日期 | 标题 | 版权 | 略缩图 | 高清图 |
-|------|------|------|--------|--------|
+
+| 日期 | 标题 | 版权 | 缩略图 | 高清图 |
+| :---: | :---: | :---: | :---: | :---: |
 | 20260101 | 伸个懒腰，迈向新年！ | 正在睡觉的北极狐 (© Chansak Joe/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20260101_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
 | 20251231 | 柏林，新年之桥 | 除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20251231_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
 | 20251230 | 新太阳的诞生 | 晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2025/20251230_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
