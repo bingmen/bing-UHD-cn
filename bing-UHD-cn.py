@@ -14,7 +14,7 @@ Bing 每日壁纸抓取脚本
 - 保存 JSON 数据到 bing-JSON-cn-{year}/ 目录
 - 生成/追加 bing-JSON-cn-{year}.json（按年汇总，同日期去重，日期倒序）
 - 根据 bing-JSON-cn-{year}.json 数据生成 bing-UHD-cn-{year}.md 表格：
-  日期 | 标题 | 版权 | 略缩图 | 高清图
+  日期 | 标题 | 版权 | 缩略图 | 高清图
 - 图片命名：YYYYMMDD_title_UHD_cn.jpg / YYYYMMDD_320_cn.jpg
 - JSON 命名：YYYYMMDD_JSON_cn.json
 - 日期列统一为 YYYY-MM-DD，文件名前缀统一为 YYYYMMDD
@@ -189,7 +189,7 @@ def write_yearly_md(year: str, yearly_images: list) -> None:
             f.write(
                 f"> 最后更新：{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
             )
-            f.write("| 日期 | 标题 | 版权 | 略缩图 | 高清图 |\n")
+            f.write("| 日期 | 标题 | 版权 | 缩略图 | 高清图 |\n")
             f.write("| :---: | :---: | :---: | :---: |\n")            
             for row in rows:
                 f.write(row + "\n")
