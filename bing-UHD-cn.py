@@ -190,7 +190,7 @@ def write_yearly_md(year: str, yearly_images: list) -> None:
                 f"> 最后更新：{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
             )
             f.write("| 日期 | 标题 | 版权 | 缩略图 | 高清图 |\n")
-            f.write("| :---: | :---: | :---: | :---: |\n")            
+            f.write("| :---: | :---: | :---: | :---: | :---: |\n")            
             for row in rows:
                 f.write(row + "\n")
         print(f"\n{year} 年 Markdown 已写入 {md_file}（共 {len(rows)} 行）")
