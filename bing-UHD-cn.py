@@ -136,7 +136,7 @@ def append_yearly_json(year: str, new_images: list) -> list:
 def build_md_row(img: dict, year: str) -> str:
     """
     根据单条图片 JSON 数据构造 Markdown 表格行：
-    日期 | 标题 | 版权 | 略缩图 | 高清图
+    日期 | 标题 | 版权 | 缩略图 | 高清图
     """
     enddate = img.get("enddate", "")  # YYYYMMDD
     if len(enddate) == 8:
@@ -176,7 +176,7 @@ def write_yearly_md(year: str, yearly_images: list) -> None:
     """
     根据 bing-JSON-cn-{year}.json 的汇总数据生成 bing-UHD-cn-{year}.md。
     - 数据来源：yearly_images（已按日期倒序去重）
-    - 表格列：日期 | 标题 | 版权 | 略缩图 | 高清图
+    - 表格列：日期 | 标题 | 版权 | 缩略图 | 高清图
     """
     md_file = f"bing-UHD-cn-{year}.md"
 
