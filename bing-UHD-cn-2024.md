@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2024
 
-> 最后更新：2026-10-06 16:24:39 UTC
+> 最后更新：2026-10-24 03:21:44 UTC
 
-| 日期 | 标题 | 版权 | 略缩图 | 高清图 |
-|------|------|------|--------|--------|
+
+| 日期 | 标题 | 版权 | 缩略图 | 高清图 |
+| :---: | :---: | :---: | :---: | :---: |
 | 20250101 | 过一个冰雪元旦！ | 在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20250101_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
 | 20241231 | 新年快乐！ | 国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20241231_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
 | 20241230 | 四季皆美的公园 | 多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚 (© Whitworth Images/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2024/20241230_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
