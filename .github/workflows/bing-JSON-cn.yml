@@ -63,7 +63,7 @@ jobs:
         run: |
           YEAR=${{ steps.year.outputs.value }}
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add "bing-UHD-cn-${YEAR}" "bing-320-cn-${YEAR}" "bing-UHD-cn-${YEAR}.md"
           if git diff --cached --quiet; then
             echo "ℹ️ 没有需要提交的变更"
