@@ -1,6 +1,6 @@
-# bing-UHD-cn-README-0.1.1.py
+# bing-UHD-cn-README-0.1.2.py
 # github.com/shenjuexiao
-# 20261024
+# 20261108
 
 # bing-UHD-cn-README.py
 #!/usr/bin/env python3
@@ -180,18 +180,20 @@ def build_readme() -> str:
     parts = []
     parts.append("# Bing 每日壁纸 - UHD 中文")
     parts.append("")
+    parts.append("## 🚀 项目")
+    parts.append("")
     parts.append(
-        "🚀 [bingmen/bing-UHD-cn](https://github.com/bingmen/bing-UHD-cn)"
+        "🔗 [bingmen/bing-UHD-cn](https://github.com/bingmen/bing-UHD-cn)"
     )
     parts.append("")
-    parts.append("## 简介")
+    parts.append("## 😀 简介")
     parts.append("")
     parts.append(
         "👀 自动抓取 Bing 每日壁纸（中国地区），存储 UHD 和 320×240 格式，"
         "后者作为略缩图形成归档汇总表格。"
     )
     parts.append("")
-    parts.append("## 归档")
+    parts.append("## 🗂️ 归档")
     parts.append("")
 
     for year in YEARS:
@@ -226,7 +228,8 @@ def build_readme() -> str:
 
 
 def main():
-    random.seed()  # 每次运行都不同；如需可复现可固定种子
+    # 每次运行都不同；如需可复现可固定种子
+    random.seed()  
     content = build_readme()
     OUTPUT.write_text(content, encoding="utf-8")
     shutil.copyfile(OUTPUT, README)
