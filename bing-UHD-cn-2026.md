@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-11-09 06:05:49 UTC
+> 最后更新：2026-11-10 07:07:27 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 | 高清图 |
 | :---: | :---: | :---: | :---: | :---: |
+| 2026-11-10 | 惬意放松，尽享海岛时光 | 玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images) | ![惬意放松，尽享海岛时光](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261110_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg) |
 | 2026-11-09 | 艺术与韵律交汇之地 | 特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images) | ![艺术与韵律交汇之地](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261109_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg) |
 | 2026-11-08 | 光芒四射的节日 | 排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images) | ![光芒四射的节日](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261108_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg) |
 | 2026-11-07 | 归来的草原巨兽 | 草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock) | ![归来的草原巨兽](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261107_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg) |
