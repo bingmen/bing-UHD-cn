@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-11-11 05:58:57 UTC
+> 最后更新：2026-11-12 07:01:06 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 | 高清图 |
 | :---: | :---: | :---: | :---: | :---: |
+| 2026-11-12 | 没有建筑师的建筑杰作 | 北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images) | ![没有建筑师的建筑杰作](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261112_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg) |
 | 2026-11-11 | 奇妙纷呈的森林 | 大西洋森林，巴西 (© FG Trade/Getty Images) | ![奇妙纷呈的森林](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261111_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg) |
 | 2026-11-10 | 惬意放松，尽享海岛时光 | 玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images) | ![惬意放松，尽享海岛时光](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261110_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg) |
 | 2026-11-09 | 艺术与韵律交汇之地 | 特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images) | ![艺术与韵律交汇之地](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261109_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg) |
